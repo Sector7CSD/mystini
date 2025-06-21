@@ -13,7 +13,7 @@ endif ()
 FetchContent_Declare(
         inipp
         GIT_REPOSITORY https://github.com/mcmtroffaes/inipp
-        GIT_TAG 32732d4e469ba7da8b5170d65e1bc0af9739e77f # 1.0.12
+        GIT_TAG 3c1668812026f1a94471b85ac5ab11ab87c43607 # 1.0.13
 )
 
 FetchContent_GetProperties(inipp)
